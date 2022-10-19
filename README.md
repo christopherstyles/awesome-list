@@ -1,4 +1,4 @@
-# Awesome tooling…
+# Awesome List
 
 * [Bottom sheets](#bottom-sheets)
 * [Carousels](#carousels)
