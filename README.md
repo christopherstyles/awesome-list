@@ -5,6 +5,7 @@
 * [Bottom sheets](#bottom-sheets)
 * [SVG](#svg)
 * [Datasets](#datasets)
+* [Select Menus](#select-menus)
 
 ## Carousels
 
@@ -24,4 +25,8 @@
 
 ## Datasets
 
-  * [react-virtuoso](https://github.com/petyosi/react-virtuoso)
+* [react-virtuoso](https://github.com/petyosi/react-virtuoso)
+
+## Select Menus
+
+* [react-select](https://react-select.com/home)
